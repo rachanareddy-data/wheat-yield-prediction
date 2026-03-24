@@ -20,7 +20,7 @@ This tool predicts wheat yield (kg/ha) based on input agricultural indicators.
 # Load dataset for permutation importance
 # -------------------------------
 # Make sure you have the same cleaned dataset used for training saved as CSV
-data = pd.read_csv("final_merged_crop_dataset.csv")  # Your full dataset
+data = pd.read_csv("final_merged_crop_dataset[1].csv")  # Your full dataset
 
 # Features and target
 features = ["Cereal_Yield_kg_ha", "Agri_Land_Percent", "Fertilizer_Use", "Arable_Land_Percent"]
