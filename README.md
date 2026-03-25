@@ -1,5 +1,8 @@
 # 🌾 Wheat Yield Prediction using Machine Learning
 
+## 🚀 Live Demo
+👉 https://wheat-yield-prediction-jksxkuy86exsay2quhxq3p.streamlit.app/
+
 ## 📌 Project Overview
 This project predicts wheat yield using FAO and World Bank data from 128 countries (2000–2023). Multiple machine learning models were trained and evaluated to find the best performing model.
 
